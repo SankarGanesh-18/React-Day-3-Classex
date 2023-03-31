@@ -1,5 +1,5 @@
 import './App.css';
-import MenuItem from './MenuItem';
+import Bakery from './Bakery';
 
 
 
